@@ -3,6 +3,14 @@
   "presets": {
     "Default": {
       "logo_width": 90,
+      "blocks": {
+        "1537173939754162885": {
+          "type": "shopify:\/\/apps\/accesspro\/blocks\/accesspro-widget\/d1a2aee8-6737-4a3e-a6aa-13d82b562c31",
+          "disabled": false,
+          "settings": {
+          }
+        }
+      },
       "color_schemes": {
         "scheme-1": {
           "settings": {
